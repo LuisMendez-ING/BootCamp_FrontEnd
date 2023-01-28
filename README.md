@@ -1,7 +1,7 @@
 
 # Bootcamp Frontend DINARA
 
-Repositorio dedicado a almacenar el proceso práctico que he dedicado para el bootcamp ofertado por la Dirección Nacional de Información Academica, Registro y Matricula ([DINARA]) de la Universidad Nacional de Colombia ([UNAL]), enfocado al desarrollo en tecnologias frontend. 
+Repositorio dedicado a almacenar el proceso práctico que he dedicado para el bootcamp ofertado por la Dirección Nacional de Información Academica, Registro y Matricula ([DINARA]) de la Universidad Nacional de Colombia ([UNAL]), enfocado al desarrollo en tecnologías frontend. 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,6 +34,11 @@ Repositorio dedicado a almacenar el proceso práctico que he dedicado para el bo
   </tr>
 </table>
 
+# Autor
+
+Luis Fernando Mendez Marques
+<br>
+Ingeniería de Sistemas y Computación
 
 [DINARA]: https://dninfoa.unal.edu.co/
 [UNAL]: https://unal.edu.co/
