@@ -18,7 +18,6 @@ Repositorio dedicado a almacenar el proceso práctico que he dedicado para el bo
     <th>Tecnologías</th>
     <th>Fecha de Asignación</th>
     <th>Fecha(s) de Realización</th>
-    <th>Horas de Codificación</th>
   </tr>
   <tr>
     <td>1</td>
@@ -28,7 +27,6 @@ Repositorio dedicado a almacenar el proceso práctico que he dedicado para el bo
       <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
     </td>
     <td>27/01/2023</td>
-    <td>--</td>
     <td>--</td>
   </tr>
   </tr>
