@@ -1,20 +1,32 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
+    <!--Codificación de Caracteres-->
     <meta charset="UTF-8" />
+    <!--Compatibilidad con Navegador Edge-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--Manejo de Responsive-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--Descripción de la Página para SEO-->
     <meta
       name="description"
       content="Actividad 1 del bootcamp sobre desarrollo frontend. UN 2023"
     />
+    <!--Palabras Claves para SEO-->
     <meta name="keywords" content="HTML, CSS, JavaScript" />
+    <!--Autor-->
     <meta name="author" content="Luis Mendez" />
+    <!--Título de la Pestaña-->
     <title>Bootflix</title>
+    <!--Acceso a Estilos-->
     <link rel="stylesheet" href="CSS/style.css" />
   </head>
+
+  <!--Cuerpo-->
   <body>
+    <!--Cabecera-->
     <header>
+      <!--Navegación-->
       <nav>
         <div>
           <h3 id="logoBF">Bootflix</h3>
@@ -25,10 +37,12 @@
             <option value="Español">Español</option>
             <option value="Ingles">Ingles</option>
           </select>
-          <a href="login.html">Iniciar sesión</a>
+          <a href="">Iniciar sesión</a>
         </div>
       </nav>
+      <!--/Navegación-->
 
+      <!--Información Cabecera-->
       <div class="contHeaderInfo">
         <h1>Dolor sit amet consectetur adipisicing</h1>
         <br>
@@ -45,91 +59,108 @@
             <input type="email" name="email" autocomplete="off"/>
           </div>
           <button>
-            Comenzar ►
+            Comenzar
+            <img src="./img/flechaBlanca.png" alt="flecha derecha" width="25px" height="25px">
           </button>
         </form>
       </div>
+      <!--/Información Cabecera-->
 
     </header>
+    <!--/Cabecera-->
 
+    <!--Contenido Principal-->
     <main>
-      <section>
-        <h2>Nulla auctor tincidunt</h2>
-        <h4>
-          Nam et tincidunt lectus. Etiam magna mauris, lobortis placerat eros
-          vitae.
-        </h4>
-        <img src="img/tv.gif" alt="" />
+      <section class="seccionPagina">
+        <div class="contTextoSeccion">
+          <h2>Nulla auctor tincidunt</h2>
+          <h4>
+            Nam et tincidunt lectus. Etiam magna mauris, lobortis placerat eros
+            vitae. Maecenas aliquet est id enim pretium.
+          </h4>
+        </div>
+        <img src="img/marcoImagenes.png" alt="" />
       </section>
 
-      <section>
-        <h2>Nam consequat neque eu urna tempor</h2>
-        <h4>
-          Duis ut cursus erat, laoreet dapibus mauris. Nullam sodales libero.
-        </h4>
-        <img src="img/iphone.png" alt="" />
+      <section class="seccionPagina">
+        <img src="img/marcoImagenes.png" alt="" />
+        <div class="contTextoSeccion">
+          <h2>Nam consequat neque eu urna tempor</h2>
+          <h4>
+            Duis ut cursus erat, laoreet dapibus mauris. Nullam sodales libero.
+          </h4>
+        </div>
       </section>
 
-      <section>
-        <h2>Nullam auctor diam non vulputate malesuada</h2>
-        <h4>
-          Vestibulum ullamcorper lectus est, eget gravida elit molestie
-          scelerisque. Nunc.
-        </h4>
-        <img src="img/dispositivos.gif" alt="" />
+      <section class="seccionPagina">
+        <div class="contTextoSeccion">
+          <h2>Nullam auctor diam non vulputate malesuada</h2>
+          <h4>
+            Vestibulum ullamcorper lectus est, eget gravida elit molestie
+            scelerisque. Nunc.
+          </h4>
+        </div>
+        <img src="img/marcoImagenes.png" alt="" />
       </section>
 
-      <section>
-        <h2>Proin egestas nisl eu risus pulvinar</h2>
-        <h4>
-          Nullam nisl metus, mattis in orci sit amet, congue tincidunt diam.
-          Nunc eget mollis orci, ut.
-        </h4>
-        <img src="img/niños.png" alt="" />
+      <section class="seccionPagina">
+        <img src="img/marcoImagenes.png" alt="" />
+        <div class="contTextoSeccion">
+          <h2>Proin egestas nisl eu risus pulvinar</h2>
+          <h4>
+            Nullam nisl metus, mattis in orci sit amet, congue tincidunt diam.
+            Nunc eget mollis orci, ut.
+          </h4>
+        </div>
       </section>
 
-      <section>
-        <h2>Phasellus in pharetra sapien</h2>
-        <div>
-          <p>¿Donec venenatis tempor justo eu? <span>+</span></p>
+      <section class="seccionPreg">
+        <div class="contPregTitulo">
+          <h2>Phasellus in pharetra sapien</h2>
         </div>
-        <div>
-          <p>¿Cras non consectetur lectus. Fusce? <span>+</span></p>
+        <div class="contPreg">
+          <p>¿Donec venenatis tempor justo eu?</p>
+          <div class="contPregMas">+</div>
         </div>
-        <div>
-          <p>¿Mauris iaculis libero eget pharetra? <span>+</span></p>
+        <div class="contPreg">
+          <p>¿Cras non consectetur lectus. Fusce?</p>
+          <div class="contPregMas">+</div>
         </div>
-        <div>
-          <p>¿Curabitur imperdiet tempor interdum. Phasellus? <span>+</span></p>
+        <div class="contPreg">
+          <p>¿Mauris iaculis libero eget pharetra?</p>
+          <div class="contPregMas">+</div>
+        </div>
+        <div class="contPreg">
+          <p>¿Curabitur imperdiet tempor interdum?</p>
+          <div class="contPregMas">+</div>
         </div>
 
-        <h3>
+        <p class="tituloCorreoInferior">
           ¿Morbi vel dolor et quam malesuada dictum vitae ac erat?. Aliquam a
           sapien vel velit scelerisque maximus. In hac habitasse.
-        </h3>
+        </p>
 
-        <form action="post">
-          <div>
+        <form action="post" class="formularioCorreoInferior">
+          <div class="contCorreoHeader">
             <label for="email">Email</label>
-            <input type="email" name="email" id="" />
+            <input type="email" name="email" autocomplete="off"/>
           </div>
           <button>
             Comenzar
-            <img
-              src="img/flechaDerecha.png"
-              alt=""
-              width="10em"
-              height="10em"
-            />
+            <img src="./img/flechaBlanca.png" alt="flecha derecha" width="25px" height="25px">
           </button>
         </form>
       </section>
     </main>
+    <!--/Contenido Principal-->
 
+    <!--Pie de Página-->
     <footer>
       <h5>Bootflix</h5>
       <p>© 2023</p>
       <a href="mailto:lumendezm@unal.edu.co">Contactar</a>
     </footer>
+    <!--/Pie de Página-->
   </body>
+  <!--Fin Cuerpo-->
 </html>
