@@ -27,7 +27,7 @@ Repositorio dedicado a almacenar el proceso práctico que he dedicado para el bo
       <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
     </td>
     <td>27/01/2023</td>
-    <td>--</td>
+    <td>30-31/01/2023</td>
   </tr>
   </tr>
 </table>
