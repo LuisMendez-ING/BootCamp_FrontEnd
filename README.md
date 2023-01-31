@@ -14,21 +14,19 @@ Repositorio dedicado a almacenar el proceso práctico que he dedicado para el bo
 <table>
   <tr>
     <th>Número de Actividad</th>
+    <th>Descripción</th>
     <th>Tecnologías</th>
     <th>Fecha de Asignación</th>
     <th>Fecha(s) de Realización</th>
-    <th>Horas de Aprendizaje</th>
-    <th>Horas de Codificación</th>
   </tr>
   <tr>
     <td>1</td>
+    <td>Maquetado web básico tomando como referencia la plataforma de streaming Netflix</td>
     <td>
       <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
     </td>
     <td>27/01/2023</td>
-    <td>--</td>
-    <td>--</td>
     <td>--</td>
   </tr>
   </tr>
