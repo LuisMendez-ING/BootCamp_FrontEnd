@@ -29,6 +29,15 @@ Repositorio dedicado a almacenar el proceso práctico que he dedicado para el bo
     <td>27/01/2023</td>
     <td>30-31/01/2023</td>
   </tr>
+    <tr>
+    <td>2</td>
+    <td>Componente en React con llamado a API</td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/React" />
+    </td>
+    <td>15/02/2023</td>
+    <td>17/02/2023</td>
+  </tr>
   </tr>
 </table>
 
