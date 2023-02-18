@@ -97,31 +97,31 @@ form {
   font-size: 20px;
 }
 
-.contCorreoHeader input:focus{
-    border: none;
-    outline-style: none;
+.contCorreoHeader input:focus {
+  border: none;
+  outline-style: none;
 }
 
-form button{
-    height: 73px;
-    background-color: #e50914;
-    padding: 0px 20px 0px 20px;
-    font-size: 2em;
-    color: white;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
-    cursor: pointer;
+form button {
+  height: 73px;
+  background-color: #e50914;
+  padding: 0px 20px 0px 20px;
+  font-size: 2em;
+  color: white;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  cursor: pointer;
 }
 
-form button:hover{
+form button:hover {
   background-color: #ff000d;
 }
 
-.contHeaderInfo form{
+.contHeaderInfo form {
   margin-bottom: 20em;
 }
 
-.seccionPagina{
+.seccionPagina {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -133,22 +133,22 @@ form button:hover{
   width: 100%;
 }
 
-.contTextoSeccion{
+.contTextoSeccion {
   width: 35em;
 }
 
-.seccionPagina h2{
+.seccionPagina h2 {
   font-weight: bold;
   font-size: 3em;
   margin-bottom: 10px;
 }
 
-.seccionPagina img{
+.seccionPagina img {
   width: 15em;
   height: 15em;
 }
 
-.seccionPreg{
+.seccionPreg {
   margin-top: 10px;
   background-color: black;
   color: white;
@@ -158,7 +158,7 @@ form button:hover{
   align-items: center;
 }
 
-.contPreg{
+.contPreg {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -169,30 +169,30 @@ form button:hover{
   width: 30em;
 }
 
-.contPreg p{
+.contPreg p {
   padding-left: 10px;
 }
 
-.contPregMas{
+.contPregMas {
   font-size: 1.5em;
   font-weight: lighter;
 }
 
-.contPregTitulo{
+.contPregTitulo {
   padding: 2em;
   font-size: 2em;
 }
 
-.tituloCorreoInferior{
+.tituloCorreoInferior {
   margin-top: 50px;
   font-size: 1.1em;
 }
 
-.formularioCorreoInferior{
+.formularioCorreoInferior {
   margin-bottom: 5em;
 }
 
-footer{
+footer {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -203,8 +203,7 @@ footer{
   padding: 20px;
 }
 
-footer a{
+footer a {
   color: #e50914;
   text-decoration: none;
 }
-
